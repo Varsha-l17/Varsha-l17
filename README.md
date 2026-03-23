@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello there👋
 
-<!--
-**Varsha-l17/Varsha-l17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on beginner-level projects in programming and web development
+- 
+- 🌱 I’m currently learning Java, Web Development, and fundamentals of AI & Machine Learning
+- 👯 I’m looking to collaborate on beginner-friendly and open-source projects
+- 
+- 🤔 I’m exploring problem-solving and improving my coding skills through platforms
+- 💬 Ask me about simple web projects, and learning resources
+- 
+- 📫 How to reach me: varsha00617@gmail.com
+- 
+- ⚡ Fun fact: I enjoy combining creativity and technology
